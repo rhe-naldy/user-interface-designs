@@ -6,24 +6,24 @@ The application contains features such as:
 
 1. Home page
 
+The home page displays ads or promotions, with sections designated for recommended products and newest products in the online store.
 
-2. Sign-up/Log-in
+2. Sign-up/sign-in
 
+The user can sign up using an email or sign up using a google account. After signing up, the user can sign in and access features such as Cart, Favourites, and History.
 
-3. Search
+3. Navigation Bar
 
+The application has a navigation bar, which enables the user to search a desired product or item. The navigation bar also has a burger button that can direct the user to the home page, news page, or the categories page. The navigation bar also has a sign-in button for the user to sign-in, or a profile button for the user to edit their profile or information.
 
-4. Navigation Bar
-
-
-
-5. News Page
-
-
-6. Categories
+4. News Page
 
 
-7. Filter
+
+5. Categories
+
+
+6. Filter
 
 
 

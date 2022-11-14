@@ -1,6 +1,6 @@
 ## Perkumpulan Warga Negara Indonesia (PWNI)
 
-Aplikasi PWNI is a UI design for a data management application designated for Indonesian citizens living in the Southeast Asia region. It was designed for a final exam regarding Human Computer Interaction course in the second semester. The application has features such as storing documents digitally, active listing of Indonesian related Organizations, and a news page that shows news or articles based on the user's location or region. The said applications UI was designed for mobile platforms such as an Android device, due to the accessibility and the mobility smartphones has to offer.
+Aplikasi PWNI is a UI design for a data management application designated for Indonesian citizens living in the Southeast Asia region. It was designed for Human Computer Interaction course's final exam in the second semester. The application has features such as storing documents digitally, active listing of Indonesian related Organizations, and a news page that shows news or articles based on the user's location or region. The said applications UI was designed for mobile platforms such as an Android device, due to the accessibility and the mobility smartphones has to offer.
 
 The application contains features such as:
 1. Storing documents

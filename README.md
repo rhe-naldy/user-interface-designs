@@ -8,7 +8,7 @@ Aplikasi PWNI is a UI design for a data management application designated for In
 
 2. [Medstore](https://github.com/rhe-naldy/user-interface-designs/blob/main/Medstore.md)
 
-
+Medstore is a UI design for a medicine store's kiosk.
 
 
 3. [SUNIB Digital](https://github.com/rhe-naldy/user-interface-designs/blob/main/SUNIB%20Digital.md)

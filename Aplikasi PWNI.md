@@ -16,4 +16,4 @@ The user can browse through a list of active organizations or associations speci
 The user can browse through news or articles basedd on the user's location or region. Users can also post their own written news or articles within the application, which will be published once the admins approve or verify the article.
 
 
-The UI Design can be seen by [clicking this link](https://www.figma.com/proto/Sdl5m1vnAy7CqsYgOSouLv/Aplikasi-PWNI---UAS-HCI-Rhenaldy?scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&node-id=2%3A2) that redirects to the Figma file.
+The UI Design can be seen by [clicking this link](https://www.figma.com/proto/Sdl5m1vnAy7CqsYgOSouLv/Aplikasi-PWNI---UAS-HCI-Rhenaldy?scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&node-id=2%3A2) that directs to the Figma file.

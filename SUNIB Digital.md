@@ -26,22 +26,21 @@ The categories page displays buttons that can direct the user to products based 
 
 6. Cart
 
+The cart feature displays all products that the user put in. When the user want to check out, the user needs to select the desired item and set a shipping address. After calculating the shipping fee, the user can check out and pay for the desired items.
+
+7. Payment
+
+The user can choose various payment methods, with choices such as digital wallets (OVO, GO-PAY, and DANA) or through virtual accounts. Payment method must be choosen every time the user checks out.
+
+8. Package Tracker
+
+The user can track a shipment or a package and see their current status.
+
+9. Profile
 
 
-7. Shipping
 
-
-
-8. Payment
-
-
-11. Package Tracker
-
-
-12. Profile
-
-
-13. History
+10. History
 
 
 The UI Design can be seen by [clicking this link](https://www.figma.com/proto/jIQ7bhFSpm6SMIzWxKragC/Website-Interface?scaling=scale-down&page-id=0%3A1&starting-point-node-id=95%3A10&node-id=95%3A10) that directs to the Figma file.

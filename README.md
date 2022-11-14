@@ -16,4 +16,4 @@ SUNIB Digital is a UI design for an online computer store, designed as a group p
 
 4. [X-Piry](https://github.com/rhe-naldy/user-interface-designs/blob/main/X-Piry.md)
 
-X-Piry is a UI design for a application designated to remind users of their near-expired consumables. It was designed as a group project for Software Engineering course in the fourth semester. The application has features suchh as .
+X-Piry is a UI design for a application designated to remind users of their near-expired consumables. It was designed as a group project for Software Engineering course in the fourth semester. The application has features such as scan product's barcode, set expiry date, remove product, edit profile, notification, and family group.

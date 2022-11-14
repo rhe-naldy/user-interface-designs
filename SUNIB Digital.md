@@ -2,6 +2,8 @@
 
 SUNIB Digital is a UI design for an online computer store, designed as a group project for Human Computer Interaction course in the second semester. The application displays computer related products based on popularity or categories, contain features such as sign-up/log-in, shipping, package tracking, profile, and history.
 
+The UI Design can be seen by [clicking this link](https://www.figma.com/proto/jIQ7bhFSpm6SMIzWxKragC/Website-Interface?scaling=scale-down&page-id=0%3A1&starting-point-node-id=95%3A10&node-id=95%3A10) that directs to the Figma file.
+
 The application contains features such as:
 
 #### 1. Home page
@@ -34,4 +36,3 @@ The user can set up or edit their profile through the profile page. The user can
 #### 10. History
 The history page displays all items purchased or ordered by the user, with the order's current status displayed.
 
-The UI Design can be seen by [clicking this link](https://www.figma.com/proto/jIQ7bhFSpm6SMIzWxKragC/Website-Interface?scaling=scale-down&page-id=0%3A1&starting-point-node-id=95%3A10&node-id=95%3A10) that directs to the Figma file.

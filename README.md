@@ -12,7 +12,8 @@ Medstore is a UI design for a medicine store's self-ordering kiosk, where custom
 
 3. [SUNIB Digital](https://github.com/rhe-naldy/user-interface-designs/blob/main/SUNIB%20Digital.md)
 
-
-
+SUNIB Digital is a UI design for an online computer store, designed as a group project for Human Computer Interaction course in the second semester. The application displays computer related products based on popularity or categories, contain features such as sign-up/log-in, shipping, package tracking, profile, and history.
 
 4. [X-Piry](https://github.com/rhe-naldy/user-interface-designs/blob/main/X-Piry.md)
+
+X-Piry is a UI design for a application designated to remind users of their near-expired consumables. It was designed as a group project for Software Engineering course in the fourth semester. The application has features suchh as .

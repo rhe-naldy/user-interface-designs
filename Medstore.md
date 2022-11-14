@@ -2,6 +2,8 @@
 
 Medstore is a UI design for a medicine store's self-ordering kiosk, where customers can order the products they needed through the self-ordering kiosks placed in front of the store. After confirming the order, the customer can go to the cashier to pay and grab the ordered products. Medstore was designed for Multimedia Systems course's mid exam in the fourth semester.
 
+The UI Design can also be seen by [clicking this link](https://www.figma.com/proto/eqgjA3KWw09cHjbej9qDY0/UTS-Semester-4-Multimedia-Systems?node-id=2%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3) that directs to the Figma file.
+
 The self-ordering kiosk's UI design consist of four different pages.
 1. Promotion page
 
@@ -27,5 +29,3 @@ The payment page appears for customers to re-check their orders. After re-checki
 A thank you page shows up after the customers confirmed their order. After a few seconds, the kiosk displays back the promotion page until another customer interacts with the kiosk. The thank you! page can be seen below.
 
 ![Thank You!](https://user-images.githubusercontent.com/45966986/201617894-ea768884-191c-405e-b826-28386e26b329.png)
-
-The UI Design can also be seen by [clicking this link](https://www.figma.com/proto/eqgjA3KWw09cHjbej9qDY0/UTS-Semester-4-Multimedia-Systems?node-id=2%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3) that directs to the Figma file.

@@ -18,24 +18,21 @@ The application has a navigation bar, which enables the user to search a desired
 
 4. News Page
 
-
+The news page displays all computer related news or articles for the user to browse and read.
 
 5. Categories
 
+The categories page displays buttons that can direct the user to products based on their categories. Categories within the website consist of desktop, laptop, motherboar, CPU, GPU, RAM, storage, power supply, monitor, webcam, mouse, keyboard, printer, fan, computer case, UPS, and micro server for the user to browse.
 
-6. Filter
-
-
-
-8. Cart
+6. Cart
 
 
 
-9. Shipping
+7. Shipping
 
 
 
-10. Payments
+8. Payment
 
 
 11. Package Tracker
